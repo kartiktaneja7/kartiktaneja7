@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Kartik!
 
-![GitHub Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+my+GitHub+Profile!)
-
 I'm a Passionate DevOps Engineer and Full-Stack Developer who turns coffee into code and bugs into features. Currently working on building scalable cloud infrastructure on AWS and GCP!
 
 ---

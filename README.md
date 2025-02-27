@@ -12,7 +12,6 @@ I'm a Passionate DevOps Engineer and Full-Stack Developer who turns coffee into 
 - 🌐 Working with **AWS**, **Terraform**, **Packer**, **JMeter**, and **Serverless**
 - 💻 Building web apps with **Node.js**, **Express**, **Sequelize**, and **Jest**
 - 🧪 Passionate about CI/CD, automation, and cloud-native solutions
-- 
 - 💼 **Ex-DevOps Engineer** @ ALEPO Technologies
 
 ---

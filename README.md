@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kartik!
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="60px"> Hi, I'm Kartik!
 
 I'm a Passionate DevOps Engineer and Full-Stack Developer who turns coffee into code and bugs into features. Currently working on building scalable cloud infrastructure on AWS and GCP!
 
